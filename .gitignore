@@ -1,0 +1,15 @@
+# ignore data folders
+trained_model/*
+trained_tokenizer/*
+
+# ignore zip files
+trained_model-20240320T133904Z-001.zip
+trained_tokenizer-20240320T133904Z-001.zip
+
+# wandb data
+wandb/*
+
+# venv and others
+venv/*
+.vscode/*
+__pycache__/*

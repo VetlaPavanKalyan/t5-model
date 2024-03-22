@@ -1,0 +1,10 @@
+transformers
+wandb
+rouge
+pandas
+numpy
+torch
+transformers[sentencepiece]
+fastapi
+uvicorn
+lz4
